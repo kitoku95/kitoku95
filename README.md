@@ -15,7 +15,7 @@
 <p>🔭 I’m currently working on UPC</p>
 <p>🌱 I’m currently learning Android (Java & Kotlin), Flutter</p>
 <p>🤔 I'll learn AI in the future</p>
-<p>⚡ Fun fact: <i>Phở tái</i> is the best</p>
+<p>⚡ Fun fact: <i>Cơm sườn</i> is the best</p>
 
 <!--
 
