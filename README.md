@@ -1,15 +1,10 @@
 <h2 align="center"> Hi there 👋</h2>
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kitoku95&count_private=true&show_icons=true&theme=gruvbox" />
-</a>
-</p>
-
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitoku95&count_private=true&layout=compact&theme=gruvbox" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kitoku95&count_private=true&show_icons=true&theme=gruvbox" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitoku95&count_private=true&layout=compact&theme=gruvbox" />
+  </a>
 </p>
 
 <p>🔭 I’m currently working at UPC</p>
