@@ -1,14 +1,12 @@
 <h2 align="center"> Hi there 👋</h2>
 
 <p>🔭 I’m currently working at UPC</p>
-<p>🌱 I’m currently learning Android (Java, Kotlin & Flutter)</p>
+<p>🌱 I’m currently learning Android (Java, Kotlin & Flutter), Python</p>
 <p>🤔 I'll learn AI in the future</p>
 <p>⚡ Fun fact: <i>Cơm sườn</i> is the best</p>
 
 <br/>
 
-<p align="left">
-</p>
 
 <br/>
 
@@ -23,6 +21,12 @@
 
 
 **kitoku95/kitoku95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 align="left">Languages and tools<h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="android" width="40" height="40"/>
+</p>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="android" width="40" height="40"/>
