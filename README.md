@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋</h2>
 
 <p>🔭 I’m currently working at UPC</p>
-<p>🌱 I’m currently learning Android (Java, Kotlin & Flutter), Python</p>
+<p>🌱 I’m currently learning Android, Python</p>
 <p>🤔 I'll learn AI in the future</p>
 <p>⚡ Fun fact: <i>Cơm sườn</i> is the best</p>
 
